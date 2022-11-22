@@ -1,0 +1,11 @@
+{
+    "users": {
+        "discord userID": {
+            "access_token": "user access token",
+            "token_type": "user token type",
+            "expires_in": 3600,
+            "refresh_token": "user refresh token",
+            "scope": "user-top-read"
+        }
+    }
+}
