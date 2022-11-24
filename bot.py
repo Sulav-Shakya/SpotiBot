@@ -145,4 +145,4 @@ async def getTop(ctx, length, itemType, timeFrame):
 
 
 
-bot.run('MTAzMjQ3ODU2NjUwNTUxMzExMA.GXMM05.8GlpUv3pTb1KNUCq8rMDY_I16ujtbgMFCu9nlg')
+bot.run('bot secret id')
