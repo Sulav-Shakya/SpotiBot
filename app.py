@@ -12,10 +12,10 @@ import base64
 
 #from requests import request
 app = Flask(__name__)
-app.secret_key = "absjwodwiduwnmdwjdh00e22"
+app.secret_key = "local secret key"
 REDIRECT_URI = 'http://sshakya.pythonanywhere.com/callback'
-CLIENT_ID = '638c169da9de408c869a924c9a1d2b31'
-CLIENT_SECRET = 'f88778a4548d48c8ab5440e0c4bfd4bf'
+CLIENT_ID = 'your client id'
+CLIENT_SECRET = 'your secret id'
 REFRESH_TOKEN = " "
 ACCESS_CODE = " "
 
