@@ -16,7 +16,7 @@ information to Spotify's servers with the context of the use of this application
 
 # WIP
 
-Currently SpotiBot supports the command !getTop <list length> <type> <time span>
+Currently SpotiBot supports the command !getTop list length type time span
 
 Where:
 
