@@ -1,5 +1,0 @@
-#DISCLAIMER
-At the moment SpotiBot has not been deployed to the wider audiance and has been restricted by Spotify to only whitelisted accounts regulated by me. 
-This is because this app inherently violates Spotify's TOS with use of third party applications (Discord) being used in parallel with websites such as
-Spotify
-
