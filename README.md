@@ -30,6 +30,9 @@ time span is either "short", "medium", and "long". Which translates to the user'
 SpotiBot seeks to add future commands that allow all tracked users within a server to compare data and to see who listens to what the most, what two users listen to
   in common, and a multitude of other features.
 
+  ![image](https://github.com/Sulav-Shakya/SpotiBot/assets/116771925/9da71c7c-7f22-49d6-a063-c311dbc6adfa)
+
+
 # DISCLAIMER
   
  Due to the nature of this project, Spotify is limiting the user scope of this project to a whitelist that is controlled from the Spotify Developer page. A quota 
